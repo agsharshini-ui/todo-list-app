@@ -1,4 +1,4 @@
-NOTEPAD— Professional To‑Do-LIST + Notes web app
+# NOTEPAD— Professional To‑Do-LIST + Notes web app
 
 ## Overview
 
@@ -118,4 +118,4 @@ Create a `.env` file in `server/` with the values below (see `server/.env.exampl
 - Build the dashboard and UI pages (Login, Register, Dashboard, Tasks, Notes, Profile)
 - Add tests and CI, then deploy to `Vercel` (client) + Render (server)
 
-If you want, I can now remove leftover template files (for example `.oxlintrc.json`) and clean up any other unwanted files — reply `remove suggested` to let me delete the likely candidates.
+If you want, I can now remove leftover template files and clean up any other unwanted files — reply `remove suggested` to let me delete the likely candidates.
