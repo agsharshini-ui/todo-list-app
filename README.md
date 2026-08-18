@@ -1,4 +1,4 @@
-# TaskNote — Professional To‑Do + Notes web app
+NOTEPAD— Professional To‑Do-LIST + Notes web app
 
 ## Overview
 
