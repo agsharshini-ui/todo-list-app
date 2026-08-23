@@ -22,7 +22,7 @@ function AuthPage({ onLogin, theme, onThemeToggle }) {
                 ? { email: formData.email, password: formData.password }
                 : formData;
 
-            const response = await fetch(`http://localhost:5000/api/auth/${endpoint}`, {
+            const response = await fetch(`https://todo-list-app-n9pm.onrender.com/api/auth/${endpoint}`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(payload)
